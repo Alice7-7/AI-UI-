@@ -1,2 +1,2 @@
 # AI-UI-
-Testing about simple AI User Interface ! 
+Testing simple AI User Interface ! 
